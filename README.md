@@ -34,5 +34,5 @@ Outcome
 - Business insights from warehouse data
 - Visual dashboards
 
-## 👨‍💻 Author
+## Author
 Rathore Raj
