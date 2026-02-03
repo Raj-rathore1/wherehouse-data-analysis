@@ -1,17 +1,17 @@
 # where-data-analysis
 
 
-# Warehouse Data Cleaning & Analysis 📊
+# Warehouse Data Cleaning & Analysis 
 
 This project focuses on cleaning and analyzing warehouse data using Python and Pandas.
 
-## 📁 Files Included
+## Files Included
 - `warehouse_messy_data.csv` → Raw dataset
 - `clean_warehouse_data.csv` → Cleaned dataset
 - `Warehouse_Data_Cleaning.ipynb` → Data cleaning notebook
 - `Warehouse_Data_Analysis.ipynb` → Data analysis & visualization notebook
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
@@ -19,7 +19,7 @@ This project focuses on cleaning and analyzing warehouse data using Python and P
 - Seaborn
 - Jupyter Notebook
 
-## 📌 Project Workflow
+## Project Workflow
 1. Load raw data
 2. Handle missing values
 3. Remove duplicates
@@ -28,7 +28,8 @@ This project focuses on cleaning and analyzing warehouse data using Python and P
 6. Create visualizations
 7. Generate insights
 
-## 📈 Outcome
+## 
+Outcome
 - Clean and structured dataset
 - Business insights from warehouse data
 - Visual dashboards
