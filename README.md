@@ -1,6 +1,3 @@
-# where-data-analysis
-
-
 # Warehouse Data Cleaning & Analysis 
 
 This project focuses on cleaning and analyzing warehouse data using Python and Pandas.
